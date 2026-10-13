@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "xhs-viral-radar",
+  "source_version": "f0ac10a757ce516fdea1c025eb061193c4d104a4aba8eb1b3c64c219ffff9304",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "1868df8094f9708f5127f71cba71186249c9ed662ec1c1cbeceb33cb21784ac5",
+    "SKILL.md": "5ffa0dd04f0701877fc3efae97f14e1f0be704bdef24df999c8120a08e46b8f9",
+    "agents/openai.yaml": "83ec0ccb062c88394f08f6472067466c39b2d95f3d6fcd4b8bdbdb96e197b108",
+    "references/output-contract.md": "edcc4df5ca8d28743dd42dab5938b88bccb3cbe14e6a57f416a345f1757b2206",
+    "references/personal-profile.md": "7a7a102746acec1aa9c33a0803e7c638f59686ddd506f1c3af51deb3296da960",
+    "references/research-protocol.md": "e548bbb03d87315d192f99a3309e09165ca04335ea0b2645f52ca9da893d2ebe",
+    "references/source-notes.md": "b8fce7f0771fc3dbf853b21c84ce0018974847e5b4ca1c47268b77fb28b5cc2c"
+  }
+}

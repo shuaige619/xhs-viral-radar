@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书爆款雷达"
+  short_description: "搜索 AI 工具、教程与自媒体方法爆款，核实数据和来源并拆解可复用结构"
+  default_prompt: "使用 $xhs-viral-radar 搜索近期 AI 工具、教程和自媒体方法的小红书爆款，核实数据和原始链接，优先分析可跟做的内容。"
